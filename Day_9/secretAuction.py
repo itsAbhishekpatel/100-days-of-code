@@ -36,9 +36,7 @@ while not bidding_finised: #use not to flip the value
         os.system('cls')
 
 
-
-
-
+# you can use pythontutor or any other website (thonny pyhton ide) to visualize your code
 
 
 
