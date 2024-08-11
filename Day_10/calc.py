@@ -1,5 +1,5 @@
-import art
-# print(art.logo)
+from art import logo
+print(logo)
 
 def calc(first_num,sec_num,opr):
     if opr == "+":
