@@ -1,0 +1,13 @@
+# express = 50ml water, 18g coffee, = cost - 1.5 dollar 
+# latte = 200 ml water, 24g coffee, 150ml milk,  = cost - 2.5 dollar 
+# cappauccino = 250 ml water, 24g coffee, 100ml milk, = cost - 3 dollar 
+
+# initial resources = 300ml water, 200ml milk, 100g coffee 
+
+# 2. coins =
+penny  , nickel, dime, quater = 1, 5, 10, 25 cents and 0.01, 0.05, 0.10, 0.25 dollar 
+
+
+
+
+
